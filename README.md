@@ -1,7 +1,7 @@
-# How to enable swipe gestures in .NET MAUI Calendar (SfCalendar)
+# How to Enable Swipe Gestures in the .NET MAUI Calendar (SfCalendar)
 This repository contains a sample to enable swipe gestures in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13837/how-to-enable-swipe-gestures-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
